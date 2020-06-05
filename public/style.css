@@ -1,0 +1,102 @@
+.heading{
+    text-align: center;  
+}
+.navbar{
+    background-color: violet !important;
+}
+.nav-link{
+    color:white !important;
+}
+.footer{
+    background-color: white !important;
+}
+.eyesfooter{
+    background-color: white !important;
+    width: 100% !important;
+}
+.jumbotron{
+    background-color:violet;
+    color: white;
+}
+.nav-link:hover{
+    text-decoration: underline;
+    color: purple !important;
+}
+.copyright{
+    color: white;
+    text-align: center;
+    background-color: purple;
+    height: 40px;
+}
+ul li{
+    list-style-type: none; 
+}
+.font-italic{
+    color: violet;
+    text-align: center;
+}
+.btn-outline-success{
+    background-color: purple;
+    color: white;
+    width: 200px;
+}
+.shopbtn{
+    margin-left: 460px;
+}
+.btn-outline-success:hover{
+    background-color: violet;
+}
+.aboutimg{
+    margin-top: 100px;
+}
+.story{
+    margin-top: 200px;
+}
+.abtbtn{
+    margin-left: 220px;
+}
+.about{
+    margin-top: -70px;
+}
+.ourstory{
+    font-size: 60px;
+    color:purple;
+}
+.facebtn{
+    margin-left: 600px !important;
+    margin-top: 30px;
+}
+.facebtn0{
+    color: white;
+    text-decoration: none;
+}
+.facebtn0:hover{
+    color: white;
+    text-decoration: white;
+}
+.facebtn1{
+    margin-top: 30px;
+}
+
+.eyesbtn1{
+    margin-top: 30px;
+
+}
+.center{
+    margin-left: 260px;
+    margin-top: 30px;
+}
+@media only screen and (max-width: 992px) {
+     
+      body{
+          background-color: palegreen;
+      }
+     }
+
+
+@media only screen and (max-width: 500px) {
+     .center {
+        margin-left: 0px !important;
+        margin-top: 0px !important;
+    }
+}
